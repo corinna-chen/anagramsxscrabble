@@ -1,4 +1,4 @@
-# anagramsxscrabble
+# anagrams x scrabble
 
 Created by Corinna Chen using Pygame.
 
